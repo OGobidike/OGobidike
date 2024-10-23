@@ -4,7 +4,7 @@
 
 ## 📫 Get in Touch
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/oguguaobidike)
-- **Email**: [oguguaobidike@gmail.com](mailto:oguguaobidike@gmail.com)
+- **Email**: [oguguaobidike9@gmail.com](mailto:oguguaobidike9@gmail.com)
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, SQL, JavaScript
