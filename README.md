@@ -16,8 +16,7 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Web Development**: Flask, FastAPI, HTML, CSS
 - **Version Control**: Git, GitHub
-- **Deployment & MLOps**: Docker, Kubernetes, CI/CD pipelines
-- **Optimization Techniques**: Dynamic Programming, Caching, Prefix Sum
+- **Deployment & MLOps**: Docker, ETL pipelines
 
 ## 🌟 Interesting Facts
 - I’m currently building an advanced local LLM bot to make interactions more context-aware and coherent.
