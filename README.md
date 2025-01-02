@@ -1,13 +1,13 @@
-# Ogugua Obidike
+# Oguguamakwa Obidike  *Og, fr those that know me!*
 
-👋 Hi, I'm Ogugua Obidike, a passionate Data Scientist/Engineer with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
+👋 Hello world! I am a passionate Data Scientist/Engineer with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
 
 ## 📫 Get in Touch
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/oguguaobidike)
 - **Email**: [oguguaobidike9@gmail.com](mailto:oguguaobidike9@gmail.com)
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, SQL, JavaScript
+- **Programming Languages**: Python, SQL, JavaScript, Java
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PyTorch
 - **Natural Language Processing (NLP)**: spaCy, NLTK, Gensim
