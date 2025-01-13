@@ -10,9 +10,9 @@
 - **Programming Languages**: Python, SQL, JavaScript, Java
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, PyTorch
-- **Natural Language Processing (NLP)**: spaCy, NLTK, Gensim
+- **Natural Language Processing (NLP)**: spaCy
 - **Big Data Tools**: Hadoop, Spark
-- **Cloud Platforms**: AWS (S3, Lambda, EC2), Google Cloud, Azure
+- **Cloud Platforms**: AWS (S3, Lambda, EC2), Google Cloud
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Web Development**: Flask, FastAPI, HTML, CSS
 - **Version Control**: Git, GitHub
