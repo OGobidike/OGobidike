@@ -1,4 +1,4 @@
-# Oguguamakwa Obidike  *Og, fr those that know me!*
+# Oguguamakwa Obidike  *Og, for short*
 
 👋 Hello world! I am a passionate Data Scientist/Engineer with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
 
