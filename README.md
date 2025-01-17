@@ -5,7 +5,7 @@
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [(https://www.linkedin.com/in/oguguamakwa-obidike)]
+- **LinkedIn**: [https://www.linkedin.com/in/oguguamakwa-obidike]
 - **Email**: [oguguaobidike9@gmail.com]
 
 ---
