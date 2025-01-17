@@ -95,10 +95,10 @@
 ## 🎓 Education
 
 - **BloomTech**  
-  Graduate of the Data Science/Machine Learning Program (2023 - 2025)
+  Graduate of the Data Science/Machine Learning Program 
 
 - **Rider University**  
-  General Biology (2017 - 2020)
+  General Biology
 
 ---
 
