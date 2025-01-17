@@ -55,7 +55,7 @@
 - Integrated the database with a Flask app, enabling dynamic visualizations and interactions.
 - Used a Random Forest Classifier to achieve 99.5% predictive accuracy on targeted monster attributes.
 
-### [Northwind SQL Analysis]
+### [Chinook SQL Analysis] * Note Currently updating if you dont see anything in my REPO*
 **Role:** Data Analyst  
 **Technologies:** SQL, Python, SQLite3
 
