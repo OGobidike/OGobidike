@@ -17,7 +17,7 @@
 - **Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, TensorFlow
 
 ### Visualization
-- Matplotlib, Plotly
+- Matplotlib, Plotly, Tableau (capstone project in the works)
 
 ### Machine Learning & AI
 - Clustering, Forecasting, Predictive Modeling, Multivariate Regression
@@ -36,38 +36,9 @@
 - Microservices, REST APIs
 
 ---
-
-## 🌟 Fav Projects
-
-### [Chatbot Congress!]
-**Role:** Data Scientist/ AI Developer  
-**Technologies:** Python, OpenAI API, NLP
-
-- Developed a Python-based chatbot framework leveraging OpenAI's GPT-3.5 Turbo API.
-- Designed a modular, reusable `Chatbot` class to support customizable system prompts and dynamic conversational styles.
-- Implemented error-handling mechanisms to manage API rate limits and ensure reliability.
-
-### [Da Monster Mash!]
-**Role:** Machine Learning Engineer/ Data Analst  
-**Technologies:** Python, Flask, MongoDB, Scikit-learn, Plotly
-
-- Built a MongoDB database and a custom class to generate and manage unique monster characters.
-- Integrated the database with a Flask app, enabling dynamic visualizations and interactions.
-- Used a Random Forest Classifier to achieve 99.5% predictive accuracy on targeted monster attributes.
-
-### [Chinook SQL Analysis] * Note Currently updating if you dont see anything in my REPO*
-**Role:** Data Analyst  
-**Technologies:** SQL, Python, SQLite3
-
-- Conducted advanced SQL queries to uncover insights into the Northwind database.
-- Automated query execution using SQLite3 and Python to streamline workflows.
-- Enhanced reporting and visualization for supplier, product, and employee analysis.
-
----
-
 ## 🎯 What I'm Interested In
 
-- **Artificial Intelligence**: Applying deep learning RL and AI to solve real-world problems.
+- **Artificial Intelligence/ Machine Learning**: Applying deep learning RL and AI to solve real-world problems.
 - **Data Engineering**: Optimizing data pipelines and working with large-scale datasets.
 - **Natural Language Processing**: Developing systems for understanding and generating human language.
 - **Algorithmic Thinking**: Continuously improving my problem-solving techniques and understanding of advanced algorithms.
