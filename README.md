@@ -1,6 +1,6 @@
 # Oguguamakwa Obidike  *Og, for short*
 
-👋 Hello world! I am a passionate Machine Learning Engineer, Data Analyst, and Data Scientist with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
+👋 Hello world! I am a passionate Junior Machine Learning Engineer, Data Analyst, and Data Scientist with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
 
 ---
 
@@ -13,7 +13,7 @@
 ## 🛠️ Technical Skills
 
 ### Programming & Analytics
-- **Languages**: Python, R, SQL
+- **Languages**: Python, SQL, JavaScript, TypeScript, HTML, CSS
 - **Libraries & Frameworks**: Scikit-learn, Pandas, NumPy
 
 ### Visualization
