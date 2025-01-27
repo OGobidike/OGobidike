@@ -14,7 +14,7 @@
 
 ### Programming & Analytics
 - **Languages**: Python, SQL, JavaScript, TypeScript, HTML, CSS
-- **Libraries & Frameworks**: Scikit-learn, Pandas, NumPy
+- **Libraries & Frameworks**: Scikit-learn, Pandas, NumPy, TensorFlow
 
 ### Visualization
 - Matplotlib, Plotly
