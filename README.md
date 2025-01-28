@@ -44,35 +44,6 @@
 - **Algorithmic Thinking**: Continuously improving my problem-solving techniques and understanding of advanced algorithms.
 
 ---
-
-## 👔 Experience
-
-### Data Analyst | Machine Learning (Freelance/Project-Based)  
-*2022 - Present*
-
-- Achieved 98.1% accuracy in predictive models using RandomForestClassifier and advanced hyperparameter optimization.
-- Conducted extensive EDA on datasets, uncovering key insights and trends for multiple Data scraping projects.
-- Developed a local chatbot using short-term memory models to enhance user interaction.
-
-### Logistics Coordinator, Kohl's Retail  
-*2020 - 2022*
-
-- Improved operational efficiency by managing shipment data and identifying delivery bottlenecks.
-- Reduced stock discrepancies by 15% through inventory monitoring and reporting.
-- Conducted trend analysis of delivery schedules to improve customer fulfillment.
-
----
-
-## 🎓 Education
-
-- **BloomTech**  
-  Graduate of the Data Science/Machine Learning Program 
-
-- **Rider University**  
-  General Biology
-
----
-
 Feel free to connect with me for collaborations, discussions, or just to talk about data and tech! 😊
 
 
