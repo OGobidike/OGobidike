@@ -1,6 +1,6 @@
 # Oguguamakwa Obidike  *Og, for short*
 
-👋 Hello world! I am a passionate Data Analyst and Data Engineer with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
+👋 Hello world! I am a passionate Data Scientist and Data Engineer with a keen interest in turning data into actionable insights and scalable solutions. I enjoy solving complex problems and building data-driven applications that impact businesses and end-users.
 
 ---
 
